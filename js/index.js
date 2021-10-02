@@ -238,7 +238,7 @@ tl3.to(".project_name", {
 /* Slideshow */
 
 var imgArray = new Array();
-imgArray[0]= "../img/aidiz.png";
+imgArray[0]= "../img/aidiz.jpg";
 imgArray[1] = "../img/anomaly.jpg";
 imgArray[2] = "../img/aphrobity.jpg";
 
