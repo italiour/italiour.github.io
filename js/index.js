@@ -240,7 +240,7 @@ tl3.to(".project_name", {
 var imgArray = new Array();
 imgArray[0]= "../img/aidiz.png";
 imgArray[1] = "../img/anomaly.jpg";
-imgArray[2] = "../aphrobity.jpg";
+imgArray[2] = "../img/aphrobity.jpg";
 
 var titleArray = new Array();
 titleArray[0] = "AIDIZ";
